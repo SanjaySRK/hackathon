@@ -1,0 +1,22 @@
+body {
+    background-image: url('../img/login-container.jpeg');
+    background-size: cover;
+}
+.logins {
+    margin-top: 150px;
+}
+.logins .card {
+    background: rgba(0,0,0,0.6);
+}
+.logins label {
+    font-size: 16px;
+}
+.logins span {
+    font-size: 50px;
+}
+.logins button {
+    transition: 2s;
+}
+.logins button:hover {
+    color: red;
+}
